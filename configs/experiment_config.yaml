@@ -1,0 +1,44 @@
+experiment:
+  name: "ga_rag_optimizer_v1"
+  seed: 42
+
+ga:
+  population_size: 20
+  n_generations: 30
+  crossover_prob: 0.7
+  mutation_prob: 0.2
+  tournament_size: 3
+  mutation_indpb: 0.2
+  crossover_indpb: 0.5
+
+search_space:
+  chunk_size: [128, 256, 512, 1024]
+  chunk_overlap: [0, 32, 64, 128]
+  top_k: [2, 3, 5, 10]
+  embedding_model:
+    - "all-MiniLM-L6-v2"
+    - "BAAI/bge-small-en-v1.5"
+    - "BAAI/bge-base-en-v1.5"
+  retrieval_strategy:
+    - "dense"
+    - "bm25"
+    - "hybrid"
+
+evaluation:
+  fitness_weights:
+    context_recall: 0.4
+    context_precision: 0.3
+    answer_f1: 0.3
+
+baselines:
+  random_search:
+    n_trials: 600
+  defaults:
+    chunk_size: 1000
+    chunk_overlap: 200
+    top_k: 4
+    embedding_model: "all-MiniLM-L6-v2"
+    retrieval_strategy: "dense"
+
+data:
+  question_split: "train"

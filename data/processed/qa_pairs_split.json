@@ -1,0 +1,4616 @@
+{
+  "train": [
+    {
+      "id": "5ae3df6e5542992e3233c48e",
+      "question": "Indian Mound Cottage was owned by the financier that co-founded which company?",
+      "answer": "Standard Oil",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "indian_mound_cottage",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "william_rockefeller",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "william_rockefeller",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "portavant_mound",
+        "santee_indian_mound_and_fort_watson",
+        "indian_mound_cemetery",
+        "indian_mound_cottage",
+        "town_creek_indian_mound",
+        "the_mound_short_story",
+        "mount_pisgah_benevolence_cemetery",
+        "william_rockefeller",
+        "indian_mound_park_dauphin_island_alabama",
+        "rockefeller_cottage"
+      ]
+    },
+    {
+      "id": "5ab81cff5542990e739ec827",
+      "question": "Which novelist was educated in London, C. S. Forester or Helen Zahavi?",
+      "answer": "Helen Zahavi",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "c_s_forester",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "helen_zahavi",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "charles_c_deam",
+        "a_ship_of_the_line",
+        "dirty_weekend_1993_film",
+        "dirty_weekend_novel",
+        "helen_zahavi",
+        "the_captain_from_connecticut",
+        "hornblower_and_the_crisis",
+        "alan_de_neville_forester",
+        "the_happy_return",
+        "c_s_forester"
+      ]
+    },
+    {
+      "id": "5a84bbb35542991dd0999dc0",
+      "question": "Mother and daughter duo Indian actresses appear in which type of films",
+      "answer": "Malayalam movies",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "subbalakshmi",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "subbalakshmi",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "thara_kalyan",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "mom_tv_series",
+        "manisha_koirala",
+        "subbalakshmi",
+        "goa_dalli_cid_999",
+        "germany_in_the_eurovision_song_contest_1988",
+        "madd_duo",
+        "ragini_actress",
+        "ek_cup_cha",
+        "before_i_forget_album",
+        "thara_kalyan"
+      ]
+    },
+    {
+      "id": "5ae129115542990adbacf722",
+      "question": "A Pair of Brown Eyes and Wild Mountain Thyme is based from what artists song?",
+      "answer": "Francis McPeake",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "a_pair_of_brown_eyes",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "wild_mountain_thyme",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "wild_mountain_thyme",
+        "a_pair_of_brown_eyes",
+        "bakhmull",
+        "a_spanner_in_the_works",
+        "crystal_gayle_singles_discography",
+        "brown_eyes_band",
+        "brown_eyes_song",
+        "rugged_maniac_twin_cities",
+        "caramel_city_high_song",
+        "beautiful_brown_eyes"
+      ]
+    },
+    {
+      "id": "5a75fa14554299109176e5dc",
+      "question": "Which tournament, organised by the Professional Darts Corporation, is planned to finish at the multi-purpose indoor arena located in the centre of The O2 entertainment complex on the Greenwich Peninsula in south-east London?",
+      "answer": "2018 Unibet Premier League Darts",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "2018_premier_league_darts",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "2018_premier_league_darts",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "the_o2_arena",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "2014_premier_league_darts",
+        "pdc_world_darts_championship",
+        "2018_premier_league_darts",
+        "2016_premier_league_darts",
+        "dave_chisnall",
+        "2012_premier_league_darts",
+        "the_o2_arena",
+        "2013_premier_league_darts",
+        "2017_premier_league_darts",
+        "2015_premier_league_darts"
+      ]
+    },
+    {
+      "id": "5ab7de455542992aa3b8c864",
+      "question": "Janet Williams has performed with an internationally recognized solo pianist whose recordings have earned him five what?",
+      "answer": "Grammy awards",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "janet_williams_soprano",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "vladimir_ashkenazy",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "vladimir_ashkenazy",
+          "sent_id": 5
+        }
+      ],
+      "context_paragraph_ids": [
+        "fred_hersch",
+        "nadezhda_dukstulskaite",
+        "stepanakert_airport",
+        "romeo_nelson",
+        "cecil_gant",
+        "vladimir_ashkenazy",
+        "janet_williams_soprano",
+        "anna_graceman",
+        "charles_brown_musician",
+        "david_m_arden"
+      ]
+    },
+    {
+      "id": "5ae00a27554299025d62a3bb",
+      "question": "What Chinese company helped develop the aircraft that preceded the Chengdu J-7?",
+      "answer": "Chengdu Aircraft Corporation",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "chengdu_j_7",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "cac_pac_jf_17_thunder",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "cbj800",
+        "list_of_chengdu_j_7_variants",
+        "cac_pac_jf_17_thunder",
+        "china_green_agriculture",
+        "chengdu_j_7",
+        "chengdu_tiancheng_f_c",
+        "jagex",
+        "chengdu_aircraft_industry_group",
+        "chengdu_j_10",
+        "ayesha_farooq"
+      ]
+    },
+    {
+      "id": "5a83161555429940e5e1a958",
+      "question": "What age did a wrestler began his training at who began his friendship with Trevor Mann in Brookport, Illinois CPW?",
+      "answer": "15",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "chuck_taylor_wrestler",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "chuck_taylor_wrestler",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "ricochet_wrestler",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "u_s_route_45_in_illinois",
+        "trevor_mann",
+        "u_s_route_45_in_kentucky",
+        "ricochet_wrestler",
+        "chuck_taylor_wrestler",
+        "orrin_l_mann",
+        "brookport_bridge",
+        "cave_in_rock_ferry",
+        "brookport_illinois",
+        "parker_city_illinois"
+      ]
+    },
+    {
+      "id": "5ae22f4e5542996483e6492f",
+      "question": " Underfist: Halloween Bash was going to be the setup for a new series spin-off but the contract expired with a cable and television station that was launched on October 1, 19962 by whom?",
+      "answer": "Betty Cohen",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "underfist_halloween_bash",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "cartoon_network",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "ruth_todd",
+        "cartoon_network",
+        "color_rhapsodies",
+        "underfist_halloween_bash",
+        "igor_musa",
+        "temptation_australian_game_show",
+        "julian_kern",
+        "ocean_park_halloween_bash",
+        "junaid_hartley",
+        "hitradio_veronica_sky_radio"
+      ]
+    },
+    {
+      "id": "5a7776b955429967ab10519e",
+      "question": "The 2004 romantic drama film based on Shake'spears play of the same name was produced by whom?",
+      "answer": "Julia Verdin",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "julia_verdin",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "julia_verdin",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "the_merchant_of_venice_2004_film",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "monsoon_2015_film",
+        "the_merchant_of_venice_2004_film",
+        "baz_luhrmann",
+        "julia_verdin",
+        "the_colleen_bawn_1911_american_film",
+        "howards_end_film",
+        "the_bridges_of_madison_county_film",
+        "bride_and_prejudice",
+        "ae_fond_kiss",
+        "milan_2004_film"
+      ]
+    },
+    {
+      "id": "5abb2f2f554299232ef4a3d7",
+      "question": "Harry Emerson Fosdick was called to serve as pastor at a church that opened its doors on what date?",
+      "answer": "October 5, 1930",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "harry_emerson_fosdick",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "harry_emerson_fosdick",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "riverside_church",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "riverside_church",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "american_friends_of_the_middle_east",
+        "harry_vail",
+        "harry_e_rowbottom",
+        "harry_emerson_wildes",
+        "beersville_new_brunswick",
+        "harry_emerson_fosdick",
+        "suncreek_united_methodist_church",
+        "stewart_cleveland_cureton",
+        "riverside_church",
+        "jerry_balmuth"
+      ]
+    },
+    {
+      "id": "5ae048a255429924de1b708e",
+      "question": "What movie did Pitof direct which had an action-adventure tie-in video game based off of it in 2004?",
+      "answer": "Catwoman",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "catwoman_video_game",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "catwoman_film",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "tron_evolution",
+        "shrek_forever_after_video_game",
+        "catwoman_film",
+        "lego_star_wars_the_video_game",
+        "x_men_the_official_game",
+        "catwoman_video_game",
+        "lego_knights_kingdom",
+        "mighty_max_toyline",
+        "star_trek_2013_video_game",
+        "tron_evolution_battle_grids"
+      ]
+    },
+    {
+      "id": "5ac34fdb554299741d48a24a",
+      "question": "Which TV series directed and written by the same person as \"Buffy the Vampire Slayer\" starred Tahmoh Penikett?",
+      "answer": "Dollhouse",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "tahmoh_penikett",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "joss_whedon",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "drusilla_buffy_the_vampire_slayer",
+        "willow_amp_tara",
+        "angel_buffy_the_vampire_slayer",
+        "tahmoh_penikett",
+        "buffy_summers",
+        "joss_whedon",
+        "buffy_the_vampire_slayer_chaos_bleeds",
+        "list_of_minor_buffy_the_vampire_slayer_characters",
+        "list_of_angel_characters",
+        "faith_buffy_the_vampire_slayer"
+      ]
+    },
+    {
+      "id": "5adf88995542993344016cd4",
+      "question": "Which city is the home of the character that might be based on John Capozzi?",
+      "answer": "Baltimore",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "john_capozzi",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "john_capozzi",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "tommy_carcetti",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "tommy_carcetti",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "fictional_portrayals_of_psychopaths",
+        "tommy_carcetti",
+        "saint_john_s_cathedral_boys_school",
+        "yossarian",
+        "direct_from_brooklyn",
+        "the_mundanes",
+        "perseus",
+        "khirbet_qeiyafa",
+        "lincoln_album",
+        "john_capozzi"
+      ]
+    },
+    {
+      "id": "5a75f1a755429976ec32bcb1",
+      "question": "Which actress played a character that dated Mark Brendanawicz?",
+      "answer": "Rashida Jones",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "mark_brendanawicz",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "parks_and_recreation",
+          "sent_id": 3
+        }
+      ],
+      "context_paragraph_ids": [
+        "mark_brendanawicz",
+        "dasavatharam_film",
+        "paul_schneider_actor",
+        "dynamite_magazine",
+        "parks_and_recreation",
+        "harriet_hayes",
+        "marina_ruy_barbosa",
+        "joan_sanderson",
+        "malishka_rj",
+        "marlon_dingle"
+      ]
+    },
+    {
+      "id": "5ade00855542997dc7907118",
+      "question": "What was the original name of the theatrical program that was founded by Joseph Papp? ",
+      "answer": "New York Shakespeare Festival",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "joseph_papp",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "shakespeare_in_the_park_new_york_city",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "joseph_papp",
+        "the_sound_of_a_voice",
+        "foundation_for_ethnic_understanding",
+        "shakespeare_in_the_park_new_york_city",
+        "more_than_you_deserve",
+        "joe_s_pub",
+        "the_pirates_of_penzance_film",
+        "organic_theater_company",
+        "curse_of_the_starving_class",
+        "eulalie_spence"
+      ]
+    },
+    {
+      "id": "5ae61ac355429929b0807ac6",
+      "question": "H Pistorius & Co is part of the reason for the wealth of the family that includes which South African sprinter?",
+      "answer": "Oscar Leonard Carl Pistorius",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "h_pistorius_amp_co",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "oscar_pistorius",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "oscar_pistorius",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "ncincihli_titi",
+        "tamzin_thomas",
+        "tsholofelo_thipe",
+        "corn_du_plessis",
+        "oscar_pistorius",
+        "paul_nash_athlete",
+        "pieter_smith",
+        "justine_palframan",
+        "h_pistorius_amp_co",
+        "gordon_day"
+      ]
+    },
+    {
+      "id": "5a77789d55429949eeb29e4e",
+      "question": "License to Drive featured what future president of the Screen Actors Guild?",
+      "answer": "Richard Masur",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "license_to_drive",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "richard_masur",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "richard_masur",
+        "sag_foundation",
+        "list_of_awards_and_nominations_received_by_lost",
+        "screen_actors_guild_life_achievement_award",
+        "geoffrey_rush",
+        "crazy_eyes_character",
+        "1st_screen_actors_guild_awards",
+        "license_to_drive",
+        "too_big_to_fail_film",
+        "sam_waterston"
+      ]
+    },
+    {
+      "id": "5ab4396555429942dd415eed",
+      "question": "What Kenya-based company owns the Tusker beer brand?",
+      "answer": "East African Breweries Limited",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "tusker_beer",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "east_african_breweries",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "east_african_breweries",
+        "monarch_beverage_company",
+        "christian_moerlein_brewing_co",
+        "snow_beer",
+        "moritz_beer",
+        "tusker_beer",
+        "hilliard_s_beer",
+        "skol",
+        "beer_shop",
+        "banks_barbados_brewery"
+      ]
+    },
+    {
+      "id": "5ae0800055429924de1b70db",
+      "question": "In which Sottish Region is the castle in which] Sir Roger de Kirkpatrick was born ?  ",
+      "answer": "Dumfries and Galloway,",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "roger_de_kirkpatrick",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "closeburn_castle",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "sir_roger_palmer_5th_baronet",
+        "roger_de_montbegon",
+        "closeburn_castle",
+        "roger_de_leybourne",
+        "roger_la_zouch",
+        "roger_de_kirkpatrick",
+        "roger_de_coverley",
+        "spencer_de_grey",
+        "robert_de_hellewell",
+        "baron_grey_of_ruthyn"
+      ]
+    },
+    {
+      "id": "5ab73de755429928e1fe383b",
+      "question": "Which item spanned farther distances regarding sales, Interact Home Computer or Sord M5?",
+      "answer": "Sord M5",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "interact_home_computer",
+          "sent_id": 7
+        },
+        {
+          "paragraph_id": "interact_home_computer",
+          "sent_id": 8
+        },
+        {
+          "paragraph_id": "interact_home_computer",
+          "sent_id": 9
+        },
+        {
+          "paragraph_id": "sord_m5",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "sord_m5",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "sord_m5",
+          "sent_id": 3
+        }
+      ],
+      "context_paragraph_ids": [
+        "nuits_blanches",
+        "nielsen_videoscan",
+        "himawari_miho_fukuhara_song",
+        "vratsa_waterfalls",
+        "the_home_computer_advanced_course",
+        "d_clarations",
+        "pyjamarama",
+        "sord_m5",
+        "sord_m23p",
+        "interact_home_computer"
+      ]
+    },
+    {
+      "id": "5a79f37a5542996a35c17045",
+      "question": "Butautas tried to depose his uncle who between which years ?",
+      "answer": "from 1345 to 1377",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "butautas",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "algirdas",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "uncle_chichi",
+        "kirill_zhandarov",
+        "khachik_ii_of_cilicia",
+        "algirdas",
+        "liu_yanzuo",
+        "lithuanian_civil_war_1389_92",
+        "zhangsun_wuji",
+        "butautas",
+        "ariarathes_ix_of_cappadocia",
+        "hans_hermann_von_katte"
+      ]
+    },
+    {
+      "id": "5ae140f95542997b2ef7d182",
+      "question": "Ivan Simson was under the command of the officer who was most noted for a defeat at what WWII battle?",
+      "answer": "Battle of Singapore",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "ivan_simson",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "arthur_percival",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "polyxenidas",
+        "claud_jacob",
+        "arthur_percival",
+        "hugh_dowding",
+        "ivan_simson",
+        "battle_of_santa_cruz_1899",
+        "operation_looking_glass",
+        "command_ops_battles_from_the_bulge",
+        "byzantine_hungarian_war_1127_29",
+        "irvin_mcdowell"
+      ]
+    },
+    {
+      "id": "5a84abaf5542997b5ce3ff06",
+      "question": "Corbin Sinclair Bryant played for the Buffalo Bills and what other NFL team that was founded in 1933, and is the oldest franchise in the AFC?",
+      "answer": "Pittsburgh Steelers",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "corbin_bryant",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "pittsburgh_steelers",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "corbin_bryant",
+        "chris_mohr",
+        "pittsburgh_steelers",
+        "buffalo_bills_quartet",
+        "list_of_buffalo_bills_players",
+        "1988_buffalo_bills_season",
+        "buffalo_bills",
+        "2000_buffalo_bills_season",
+        "2015_buffalo_bills_season",
+        "list_of_pittsburgh_steelers_seasons"
+      ]
+    },
+    {
+      "id": "5a7da0915542990b8f5039d4",
+      "question": "What is the pioneer who has a park dedicated to him near Lexington, North Carolina famous for?",
+      "answer": "Wilderness Road",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "boone_s_cave_park",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "boone_s_cave_park",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "daniel_boone",
+          "sent_id": 4
+        }
+      ],
+      "context_paragraph_ids": [
+        "boone_s_cave_park",
+        "ballentine_shealy_house",
+        "daniel_boone",
+        "pilgrim_reformed_church_cemetery",
+        "maj_henry_a_meetze_house",
+        "north_davidson_high_school",
+        "maryland_route_237",
+        "hedrick_s_grove_reformed_church",
+        "kentucky_horse_park",
+        "henry_shoaf_farm"
+      ]
+    },
+    {
+      "id": "5a887771554299206df2b294",
+      "question": "Which artist was Italian, Sergio Leone or Jon Paul Puno?",
+      "answer": "Sergio Leone",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "sergio_leone",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "jon_paul_puno",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "the_last_days_of_pompeii_1959_film",
+        "sergio_donati",
+        "carlo_simi",
+        "gonzalo_gavira",
+        "sergio_leone",
+        "jon_paul_puno",
+        "django_1966_film",
+        "once_upon_a_time_in_the_west",
+        "the_good_the_bad_and_the_ugly",
+        "the_big_gundown"
+      ]
+    },
+    {
+      "id": "5a7ed5af5542994959419a84",
+      "question": "Which band has more members, Kitchens of Distinction or Royal Blood?",
+      "answer": "Kitchens of Distinction",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "kitchens_of_distinction",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "royal_blood_band",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "royal_blood_album",
+        "the_sword_stained_with_royal_blood_film",
+        "royal_blood_band",
+        "out_of_the_black_song",
+        "gemfire",
+        "figure_it_out_royal_blood_song",
+        "come_on_over_royal_blood_song",
+        "kitchens_of_distinction",
+        "royal_blood_discography",
+        "little_monster_song"
+      ]
+    },
+    {
+      "id": "5a90629855429916514e749e",
+      "question": "What is one risk to Norway's financial reserve?",
+      "answer": "terrorist activity",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "forsvarets_spesialkommando",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "economy_of_norway",
+          "sent_id": 3
+        }
+      ],
+      "context_paragraph_ids": [
+        "randal_quarles",
+        "risk_measure",
+        "bad_bank",
+        "financial_risk_modeling",
+        "pedro_rivera_educator",
+        "reinvestment_risk",
+        "economy_of_norway",
+        "allowance_for_loan_and_lease_losses",
+        "forsvarets_spesialkommando",
+        "systemic_risk"
+      ]
+    },
+    {
+      "id": "5a84f6c55542997175ce1f36",
+      "question": "Geoffrey Serle wrote a biography about which Australian military commander who planned the Allied attack at the Battle of Amiens in 1918?",
+      "answer": "John Monash",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "geoffrey_serle",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "john_monash",
+          "sent_id": 3
+        }
+      ],
+      "context_paragraph_ids": [
+        "mary_turner_shaw",
+        "operation_bertram",
+        "geoffrey_serle",
+        "battle_of_langemarck_1917",
+        "battle_of_the_avre",
+        "battle_of_the_canal_du_nord",
+        "john_monash",
+        "leighton_bracegirdle",
+        "victor_sellheim",
+        "battle_of_amiens_1918"
+      ]
+    },
+    {
+      "id": "5ab659e355429954757d324e",
+      "question": "hree Men on a Horse is a play by a playwright born in which year ?",
+      "answer": "1887",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "three_men_on_a_horse",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "george_abbott",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "sumie_tanaka",
+        "michael_wynne_playwright",
+        "james_roland_maclaren",
+        "three_men_on_a_horse",
+        "deobia_oparei",
+        "finn_iunker",
+        "jeffrey_stanley",
+        "lenelle_mo_se",
+        "bertha_runkle",
+        "george_abbott"
+      ]
+    },
+    {
+      "id": "5ab85e195542992aa3b8c8c5",
+      "question": "What profession does Alex Beard and Tony Hall, Baron Hall of Birkenhead have in common?",
+      "answer": "director",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "alex_beard_arts_manager",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "tony_hall_baron_hall_of_birkenhead",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "tony_hall_baron_hall_of_birkenhead",
+        "alex_beard_artist",
+        "alex_beard_arts_manager",
+        "henry_cohen_1st_baron_cohen_of_birkenhead",
+        "birkenhead_war_memorial",
+        "baron_stanley_of_alderley",
+        "earl_of_birkenhead",
+        "70_volt_parade",
+        "charles_reed_architect",
+        "birkenhead_town_hall"
+      ]
+    },
+    {
+      "id": "5ae7edee554299540e5a56ad",
+      "question": "The Church of the Guanche People was founded in the city that is on the most populated island of what larger area?",
+      "answer": "Macaronesia",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "church_of_the_guanche_people",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "tenerife",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "mactan",
+        "bj_rn_ya_haram",
+        "loppa_church",
+        "tenerife",
+        "vilsandi",
+        "pungdo",
+        "guanche_mummies",
+        "church_of_the_guanche_people",
+        "karls_y_church",
+        "wheeling_island"
+      ]
+    },
+    {
+      "id": "5a74e6e855429974ef308c8e",
+      "question": "What portable media player was distributed through HP?",
+      "answer": "iPod+HP",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "ipod_hp",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "ipod_classic",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "portable_media_player",
+        "walkman_bean",
+        "ipod_classic",
+        "zvue",
+        "ipod_hp",
+        "k_pex_100",
+        "apple_inc",
+        "portable_media_center",
+        "cowon_d2",
+        "microsoft_playsforsure"
+      ]
+    },
+    {
+      "id": "5adcc975554299473435379f",
+      "question": "Don Swayze was one of five children.  His older brother was trained in dance by their mother, Patsy Swayze, leading to his role in \"Dirty Dancing\".  Who is his older brother?",
+      "answer": "Patrick Swayze",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "patsy_swayze",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "patsy_swayze",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "patsy_swayze",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "don_swayze",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "don_swayze",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "joshua_rosa",
+        "patsy_swayze",
+        "she_s_like_the_wind",
+        "dirty_dancing_the_time_of_your_life",
+        "more_dirty_dancing",
+        "dirty_dancing_soundtrack",
+        "don_swayze",
+        "dirty_dancing",
+        "dirty_dancing_1988_tv_series",
+        "los_debutantes"
+      ]
+    },
+    {
+      "id": "5a7cb8bc554299452d57b9be",
+      "question": "What is the capacity of the stadium that is the home ground of the Lahore Eagles?",
+      "answer": "27,000",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "lahore_eagles",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "gaddafi_stadium",
+          "sent_id": 4
+        }
+      ],
+      "context_paragraph_ids": [
+        "khurram_shehzad",
+        "azhar_ali",
+        "lahore_lions",
+        "ullevaal_stadion",
+        "mohammad_naeem_cricketer_born_1991",
+        "gaddafi_stadium",
+        "aamer_iqbal_cricketer_born_1990",
+        "imran_ali_cricketer_born_1985",
+        "subiaco_oval",
+        "lahore_eagles"
+      ]
+    },
+    {
+      "id": "5ac3a049554299741d48a2ba",
+      "question": "Philadelphia, Here I come! is a 1964 play by an Irish dramatist who has been likened to an Irish Checkhov?",
+      "answer": "Brian Patrick Friel",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "philadelphia_here_i_come",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "brian_friel",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "brian_friel",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "brian_friel",
+        "the_devil_s_disciple",
+        "philadelphia_here_i_come",
+        "se_n_o_casey",
+        "augusta_lady_gregory",
+        "someone_who_ll_watch_over_me",
+        "great_catherine_whom_glory_still_adores",
+        "cock_a_doodle_dandy",
+        "se_ora_carrar_s_rifles",
+        "t_c_murray"
+      ]
+    },
+    {
+      "id": "5ae3f82a5542996836b02c01",
+      "question": "The CNN-News18 Indian of the Year award was created by Sagarika Ghose and a news anchor born in what year?",
+      "answer": "1965",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "cnn_ibn_indian_of_the_year",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "rajdeep_sardesai",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "dick_nourse",
+        "antonio_mora",
+        "robbie_timmons",
+        "sanjeeb_mukherjee",
+        "karma_paljor",
+        "cheryl_cosim",
+        "rajdeep_sardesai",
+        "cnn_ibn_indian_of_the_year",
+        "sagarika_ghose",
+        "lester_holt"
+      ]
+    },
+    {
+      "id": "5ae14def55429901ffe4ae4a",
+      "question": "Do both Lee Tamahori and Robert Redford work as a director?",
+      "answer": "yes",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "lee_tamahori",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "robert_redford",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "mahana_film",
+        "next_2007_film",
+        "xxx_state_of_the_union",
+        "lee_tamahori",
+        "sundance_group",
+        "the_devil_s_double",
+        "along_came_a_spider_film",
+        "robert_redford",
+        "once_were_warriors_film",
+        "the_edge_1997_film"
+      ]
+    },
+    {
+      "id": "5a88982155429938390d3f81",
+      "question": "What year did the shopping centre on the street numbered B411 open in the space of in the retail space of the former William Whiteley Limited department store?",
+      "answer": "1989",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "queensway_london",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "queensway_london",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "whiteleys",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "whiteleys",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "metcalf_south_shopping_center",
+        "westfield_stratford_city",
+        "william_whiteley_limited",
+        "whiteleys",
+        "william_whiteley",
+        "king_cross_jankomir",
+        "the_liberty",
+        "queensway_london",
+        "athlone_town_centre",
+        "del_monte_center"
+      ]
+    },
+    {
+      "id": "5a883c175542997e5c09a5ae",
+      "question": "George Tawengwa was the first black person to buy a farm located in a country now known as which country ?",
+      "answer": "Zimbabwe",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "george_tawengwa",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "southern_rhodesia",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "southern_rhodesia",
+        "violet_king_henry",
+        "george_tawengwa",
+        "wilbur_k_howard",
+        "c_bette_wimbish",
+        "andrew_watson_footballer_born_1856",
+        "tawengwa_family",
+        "ronald_blackwood",
+        "charles_burleigh_purvis",
+        "ike_jones"
+      ]
+    },
+    {
+      "id": "5ae15d70554299422ee9966f",
+      "question": "Who costarred in 1935 American drama film Les Misérables with the husband of Elsa Lanchester?",
+      "answer": "Fredric March",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "les_mis_rables_1935_film",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "charles_laughton",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "thumbs_up_film",
+        "bride_of_frankenstein",
+        "willard_1971_film",
+        "hugh_jackman",
+        "me_natalie",
+        "witness_for_the_prosecution_1957_film",
+        "charles_laughton",
+        "bell_book_and_candle",
+        "easy_come_easy_go_1967_film",
+        "les_mis_rables_1935_film"
+      ]
+    },
+    {
+      "id": "5a74af7e55429916b01641d2",
+      "question": "Who was born first, Johan Leysen or George Clooney?",
+      "answer": "Johan Leysen",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "johan_leysen",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "george_clooney",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "george_clooney",
+        "young_amp_beautiful",
+        "the_ides_of_march_film",
+        "syriana",
+        "johan_leysen",
+        "le_lit",
+        "nick_clooney",
+        "doug_ross",
+        "good_night_and_good_luck",
+        "souvenir_2016_film"
+      ]
+    },
+    {
+      "id": "5aba9813554299232ef4a357",
+      "question": "Which is a choreographer, Yuen Woo-ping or Basil Dean?",
+      "answer": "Yuen Woo-ping",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "yuen_woo_ping",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "basil_dean",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "shaolin_drunkard",
+        "autumn_crocus_film",
+        "dance_of_the_drunk_mantis",
+        "basil_dean",
+        "yuen_woo_ping",
+        "snake_in_the_eagle_s_shadow",
+        "nine_till_six",
+        "yuen_cheung_yan",
+        "true_legend",
+        "the_return_of_sherlock_holmes_1929_film"
+      ]
+    },
+    {
+      "id": "5a72160e55429971e9dc9253",
+      "question": "Who is the son of the author of the short story \"The Enormous Radio.\"",
+      "answer": "Benjamin Hale Cheever",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "benjamin_cheever",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "benjamin_cheever",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "john_cheever",
+          "sent_id": 4
+        }
+      ],
+      "context_paragraph_ids": [
+        "the_stories_of_john_cheever",
+        "what_we_talk_about_when_we_talk_about_anne_frank",
+        "battles_in_the_desert",
+        "second_son_child_novel",
+        "dilman_dila",
+        "benjamin_cheever",
+        "the_enormous_radio",
+        "john_cheever",
+        "the_man_who_evolved",
+        "inconstant_moon"
+      ]
+    },
+    {
+      "id": "5a8c5d3f554299585d9e3675",
+      "question": "Which band formed first Cha Cha Cohen or Swervedriver?",
+      "answer": "Cha Cha Cohen were a band formed in 1994",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "swervedriver",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "cha_cha_cohen",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "live_in_tokyo_1996_vol_2",
+        "perfect_day_emf_song",
+        "cha_cha_cha_emf_album",
+        "cha_cha_cohen",
+        "cod_crews_on_destiny",
+        "n_flying",
+        "the_silencers_band",
+        "swervedriver",
+        "las_rubias_del_norte",
+        "giants_of_science"
+      ]
+    },
+    {
+      "id": "5adff2aa554299603e4183d0",
+      "question": "What career did Markus Feehily and Bobby Fuller have in common?",
+      "answer": "songwriter",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "markus_feehily",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "bobby_fuller",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "fire_markus_feehily_album",
+        "i_fought_the_law",
+        "the_bobby_fuller_four",
+        "bobby_fuller_died_for_your_sins",
+        "trash_box",
+        "markus_feehily",
+        "bobby_fuller",
+        "randy_fuller_musician",
+        "jim_reese_musician",
+        "love_is_a_drug_markus_feehily_song"
+      ]
+    },
+    {
+      "id": "5ae13b085542997b2ef7d146",
+      "question": "The Combs–Hehl Bridge is a twin span single pier cantilever bridge carrying an intersate loop that encloses and area of over how many acres? ",
+      "answer": "250,000",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "combs_hehl_bridge",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "interstate_275_ohio_indiana_kentucky",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "interstate_275_ohio_indiana_kentucky",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "carquinez_bridge",
+        "cantilever_bridge",
+        "varapuzha_bridge",
+        "horace_wilkinson_bridge",
+        "winfield_toll_bridge",
+        "rochester_bridge",
+        "clay_wade_bailey_bridge",
+        "combs_hehl_bridge",
+        "niagara_cantilever_bridge",
+        "interstate_275_ohio_indiana_kentucky"
+      ]
+    },
+    {
+      "id": "5ab209ec554299722f9b4ca2",
+      "question": "What video game character did the voice actress in the animated film Alpha and Omega voice?",
+      "answer": "Kairi in the video game series \"Kingdom Hearts\".",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "alpha_and_omega_film_series",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "hayden_panettiere",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "omega_quintet",
+        "cammy",
+        "hayden_panettiere",
+        "rolento",
+        "kate_higgins",
+        "dr_wily",
+        "guy_final_fight",
+        "alpha_and_omega_film_series",
+        "cody_final_fight",
+        "birdie_street_fighter"
+      ]
+    },
+    {
+      "id": "5ab8854555429934fafe6e0c",
+      "question": "Works by Hanna Leena Kristiina Varis are part of a collection in a museum that houses approximately 65,000 what?",
+      "answer": "drawings",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "hanna_varis",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "hanna_varis",
+          "sent_id": 4
+        },
+        {
+          "paragraph_id": "albertina",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "albertina",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "amistad_dam_port_of_entry",
+        "pakistan_air_force",
+        "remington_model_51",
+        "united_negro_college_fund",
+        "karaboro_languages",
+        "marovoay",
+        "darayim_district",
+        "hanna_varis",
+        "albertina",
+        "gwangjang_market"
+      ]
+    },
+    {
+      "id": "5a8a43eb5542996c9b8d5e82",
+      "question": "Which Australian city founded in 1838 contains a boarding school opened by a Prime Minister of Australia and named after a school in London of the same name.",
+      "answer": "Marion, South Australia",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "westminster_school_adelaide",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "westminster_school_adelaide",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "marion_south_australia",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "marion_south_australia",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "sainik_school_balachadi_jamnagar",
+        "png_solution",
+        "cotter_high_school_winona_minnesota",
+        "marion_south_australia",
+        "princeton_high_school_illinois",
+        "concho_indian_boarding_school",
+        "grace_church_school",
+        "vishwajyoti_higher_secondary_school",
+        "grennaskolan",
+        "westminster_school_adelaide"
+      ]
+    },
+    {
+      "id": "5ab38cdd5542992ade7c6de2",
+      "question": "Liverpool nurse Mimi Smith was the aunt and guardian of which one of the city's most famous sons?",
+      "answer": "John Lennon",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "nowhere_boy",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "mimi_smith",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "b_guey",
+        "nowhere_boy",
+        "diti",
+        "rora_elevation",
+        "keadue_rovers_f_c",
+        "mimi_smith_artist",
+        "julia_lennon",
+        "mimi_smith",
+        "klein_texas",
+        "adam_smith_professor_of_political_economy"
+      ]
+    },
+    {
+      "id": "5ab30336554299166977417c",
+      "question": "Which American comedian starred in the original cast of Saturday Night Live and played Stan Winters in the sitcom Martin?",
+      "answer": "Garrett Morris",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "garrett_morris",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "garrett_morris",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "garrett_morris",
+          "sent_id": 4
+        },
+        {
+          "paragraph_id": "martin_tv_series",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "john_belushi",
+        "laraine_newman",
+        "gilda_radner",
+        "kenan_thompson",
+        "list_of_saturday_night_live_guests",
+        "martin_tv_series",
+        "saturday_night_live",
+        "garrett_morris",
+        "a_night_at_the_roxbury",
+        "list_of_saturday_night_live_episodes"
+      ]
+    },
+    {
+      "id": "5add3a605542990dbb2f7ddb",
+      "question": "Were both Terence Fisher and Leopoldo Torre Nilsson British film directors?",
+      "answer": "no",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "terence_fisher",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "leopoldo_torre_nilsson",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "leopoldo_torres_r_os",
+        "el_hijo_del_crack",
+        "summer_skin_film",
+        "the_party_is_over",
+        "la_ca_da",
+        "d_as_de_odio",
+        "leopoldo_torre_nilsson",
+        "the_female_seventy_times_seven",
+        "terence_fisher",
+        "pantalones_cortos"
+      ]
+    },
+    {
+      "id": "5a75ebfc5542992d0ec06018",
+      "question": "What indigenous American ethnic group that inhabits land in the northern United States and southern Canada was part of the Treaty of Springwells?",
+      "answer": "Odawa",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "treaty_of_springwells",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "odawa",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "aladja",
+        "odawa",
+        "dugu",
+        "poles_in_chicago",
+        "euxoa_pleuritica",
+        "wayuu_people",
+        "kwasio_people",
+        "kaingang",
+        "treaty_of_springwells",
+        "northern_long_eared_bat_myotis"
+      ]
+    },
+    {
+      "id": "5a8b97485542995d1e6f140f",
+      "question": "What is common between Matt Vasgersian and Michael Casey?",
+      "answer": "American",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "matt_vasgersian",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "michael_casey_poet",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "world_series_of_blackjack",
+        "thursday_night_baseball",
+        "matt_vasgersian",
+        "baseball_iq",
+        "mlb_13_the_show",
+        "celebrity_blackjack",
+        "max_rubin",
+        "list_of_major_league_baseball_on_fox_broadcasters",
+        "daron_sutton",
+        "michael_casey_poet"
+      ]
+    },
+    {
+      "id": "5ae76e615542997ec2727647",
+      "question": "Alternative facts is a phrase use by this U.S. Counselor to the President born in what year?",
+      "answer": "1967",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "alternative_facts",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "kellyanne_conway",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "bowling_green_massacre",
+        "alternative_facts",
+        "wendy_sherman",
+        "drug_facts_for_young_people",
+        "kellyanne_conway",
+        "truman_state_university",
+        "alternative_facts_law",
+        "frederic_adrian_delano",
+        "james_buchanan",
+        "mary_n_cook"
+      ]
+    },
+    {
+      "id": "5a7744e45542993569682d37",
+      "question": "Who was born first, Juan Rulfo or John le Carré?",
+      "answer": "Juan Rulfo",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "juan_rulfo",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "john_le_carr",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "spy_film",
+        "juan_rulfo",
+        "control_fictional_character",
+        "call_for_the_dead",
+        "john_le_carr_the_biography",
+        "connie_sachs",
+        "joseph_hone",
+        "the_deadly_affair",
+        "john_le_carr",
+        "the_incongruous_spy"
+      ]
+    },
+    {
+      "id": "5ae8161555429952e35eaa04",
+      "question": "Where was the match held where Chicharito scored goals along with Antonio Valencia and Dimitar Berbatov?",
+      "answer": "Wembley Stadium",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "2010_fa_community_shield",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "javier_hern_ndez",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "1967_fa_charity_shield",
+        "javier_hern_ndez",
+        "2011_mls_all_star_game",
+        "fifa_world_cup_top_goalscorers",
+        "ana_maria_yanakieva",
+        "list_of_premier_league_hat_tricks",
+        "2010_fa_community_shield",
+        "antonio_valencia",
+        "hristo_bonev",
+        "2003_04_bayer_04_leverkusen_season"
+      ]
+    },
+    {
+      "id": "5a7cd5b05542990527d5553d",
+      "question": "What Northern Ireland town founded in 1620 is the birthplace of one of the final four contestants from the seventh UK series of \"The Apprentice\"?",
+      "answer": "Cookstown",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "jim_eastwood",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "jim_eastwood",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "cookstown",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "cookstown",
+          "sent_id": 3
+        }
+      ],
+      "context_paragraph_ids": [
+        "expedition_robinson_2005",
+        "webriot",
+        "robinson_ekspeditionen_2010",
+        "suomen_robinson_2005",
+        "cookstown",
+        "kelsey_nixon",
+        "list_of_the_x_factor_finalists_uk_series_7",
+        "robinson_ekspeditionen_2004",
+        "jim_eastwood",
+        "paul_torrisi"
+      ]
+    },
+    {
+      "id": "5abd0b6b5542996e802b46b4",
+      "question": "Finally includes the song that peaked at what on the US Hot 100",
+      "answer": "number five",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "finally_cece_peniston_album",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "finally_cece_peniston_song",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "wobble_song",
+        "finally_cece_peniston_album",
+        "finger_eleven",
+        "sam_hunt_discography",
+        "nu_nu",
+        "light_poles_and_pine_trees",
+        "y_r_n_young_rich_niggas",
+        "finally_cece_peniston_song",
+        "birdman_discography",
+        "tyga_discography"
+      ]
+    },
+    {
+      "id": "5a7ef6b35542994959419a94",
+      "question": "What region of Italy was Giorgio Pini born in?",
+      "answer": "Emilia-Romagna Region",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "giorgio_pini",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "bologna",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "carolina_pini",
+        "agro_nocerino_sarnese",
+        "cantine_lungarotti_winery",
+        "andrea_bellunello",
+        "giorgio_giunchi",
+        "giorgio_pini",
+        "enzo_nini",
+        "san_giorgio_di_nogaro_railway_station",
+        "bologna",
+        "san_giorgio_brescia"
+      ]
+    },
+    {
+      "id": "5a78e86f55429974737f78fb",
+      "question": "What does the unique calendar system in Japan, who the first Emperor of Japan created, emphasize?",
+      "answer": "the long history of Japan",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "japanese_imperial_year",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "japanese_imperial_year",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "emperor_jimmu",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "borana_calendar",
+        "calendar_date",
+        "qin_shi_huang",
+        "common_era",
+        "luoxia_hong",
+        "leap_week_calendar",
+        "emperor_jimmu",
+        "lunar_calendar",
+        "calendar_year",
+        "japanese_imperial_year"
+      ]
+    },
+    {
+      "id": "5a7dd9445542997cc2c474ac",
+      "question": "Which novelist, J. G. Farrell or Louis Aragon, wrote of the political and human consequences of his country's colonial rule?",
+      "answer": "Farrell",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "j_g_farrell",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "j_g_farrell",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "louis_aragon",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "j_g_farrell",
+        "murree_rebellion_of_1857",
+        "human_rights_in_niger",
+        "louis_aragon",
+        "1985_hong_kong_electoral_reform",
+        "les_chansons_d_aragon",
+        "origins_of_the_sri_lankan_civil_war",
+        "fort_diu",
+        "l_affiche_rouge",
+        "mwambutsa_iv_of_burundi"
+      ]
+    },
+    {
+      "id": "5a74e5aa5542996c70cfae2e",
+      "question": "Which cloth town in the high Middle Ages gives the name to the dye associated with the man who is said to rob from the rich and give to the poor?",
+      "answer": "Lincoln",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "robin_hood",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "lincoln_green",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "history_of_schools_in_scotland",
+        "economy_of_scotland_in_the_high_middle_ages",
+        "high_middle_ages",
+        "medieval_archaeology",
+        "early_middle_ages",
+        "friesian_horse",
+        "robin_hood",
+        "society_of_scotland_in_the_high_middle_ages",
+        "cloth_merchant",
+        "lincoln_green"
+      ]
+    },
+    {
+      "id": "5a8ccea555429941ae14deeb",
+      "question": "What was the name of the alum by the Scorpions that contained one of their most famous songs written by Klaus Meine and Herman Rarebell?",
+      "answer": "Love at First Sting",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "rock_you_like_a_hurricane",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "rock_you_like_a_hurricane",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "rock_you_like_a_hurricane",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "love_at_first_sting",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "love_at_first_sting",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "scorpions_band",
+        "james_kottak",
+        "send_me_an_angel_scorpions_song",
+        "rock_you_like_a_hurricane",
+        "you_re_the_one_bonnie_tyler_song",
+        "taken_by_force",
+        "no_one_like_you",
+        "klaus_meine",
+        "big_city_nights_song",
+        "love_at_first_sting"
+      ]
+    },
+    {
+      "id": "5abb23035542992ccd8e7f22",
+      "question": "Kenneth Arnold reported the first unidentified object sighting in what city and state in 1947?",
+      "answer": "Mount Rainier, Washington",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "world_ufo_day",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "kenneth_arnold",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "kenneth_arnold",
+        "unidentified_submerged_object",
+        "nash_fortenberry_ufo_sighting",
+        "1976_tehran_ufo_incident",
+        "world_ufo_day",
+        "right_said_fred_song",
+        "bg_geminorum",
+        "cash_landrum_incident",
+        "kenneth_arnold_ufo_sighting",
+        "mcminnville_ufo_photographs"
+      ]
+    },
+    {
+      "id": "5ac290e85542992f1f2b3916",
+      "question": "What facility is shared by RAAF Base Williamtown and Newcastle Airport in New South Wales?",
+      "answer": "runway",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "raaf_base_williamtown",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "newcastle_airport_new_south_wales",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "no_26_squadron_raaf",
+        "no_3_control_and_reporting_unit_raaf",
+        "fighter_world",
+        "newcastle_airport_new_south_wales",
+        "raaf_base_williamtown",
+        "no_2_squadron_raaf",
+        "no_78_wing_raaf",
+        "no_81_wing_raaf",
+        "williamtown_chemical_contamination",
+        "no_3_squadron_raaf"
+      ]
+    },
+    {
+      "id": "5ae824295542997ec272772f",
+      "question": "Dan Scalco is best known as a contributing author for a magazine owned by who?",
+      "answer": "Peter Shea",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "dan_scalco",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "dan_scalco",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "dan_scalco",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "entrepreneur_magazine",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "entrepreneur_magazine",
+          "sent_id": 5
+        }
+      ],
+      "context_paragraph_ids": [
+        "bill_muter",
+        "james_stanger",
+        "david_france_writer",
+        "l_k_samuels",
+        "todd_klick",
+        "anna_lapp",
+        "blurt_magazine",
+        "dan_scalco",
+        "entrepreneur_magazine",
+        "john_warren_kindt"
+      ]
+    },
+    {
+      "id": "5ae20c465542997283cd236a",
+      "question": "What type of film is Jordan Roberts 2017 film release?",
+      "answer": "3D computer-animated comedy",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "jordan_roberts_writer",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "ferdinand_film",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "rangbaz",
+        "you_re_not_you",
+        "jordan_roberts_footballer_born_1993",
+        "mahershala_ali",
+        "ferdinand_film",
+        "3_2_1_frankie_go_boom",
+        "burn_your_maps",
+        "ritika_singh",
+        "around_the_bend",
+        "jordan_roberts_writer"
+      ]
+    },
+    {
+      "id": "5a75357c5542996c70cfaeab",
+      "question": "Who was born first, Bobby Keys or Joe Cocker?",
+      "answer": "\"Bobby\" Keys",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "bobby_keys",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "joe_cocker",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "joe_cocker_album",
+        "jim_price_musician",
+        "woman_to_woman_joe_cocker_song",
+        "joe_cocker",
+        "joe_cocker_2",
+        "joe_cocker_live",
+        "space_captain",
+        "bobby_keys",
+        "joe_cocker_classics_volume_4",
+        "live_in_l_a_joe_cocker_album"
+      ]
+    },
+    {
+      "id": "5abd85375542993062266cba",
+      "question": "Chancellor Otto von Bismark and Reichstadt agreement were also part of what League?",
+      "answer": "League of the Three Emperors",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "reichstadt_agreement",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "league_of_the_three_emperors",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "dropping_the_pilot",
+        "league_of_the_three_emperors",
+        "hans_von_hentig",
+        "reinsurance_treaty",
+        "southern_schleswig",
+        "reichstadt_agreement",
+        "reinhold_von_werner",
+        "mona_von_bismarck",
+        "treaty_of_berlin_1889",
+        "bismarck_1925_film"
+      ]
+    },
+    {
+      "id": "5abec9b25542997ec76fd366",
+      "question": "What city was the capital of the Ostrogothic Kingdom and the birth place of Ornella Fiorentini?",
+      "answer": "Ravenna (] , also locally ] ; Romagnol: \"Ravèna\" ) is the capital city of the Province of Ravenna",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "ornella_fiorentini",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "ravenna",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "ravenna",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "bleschames",
+        "ostrogothic_ravenna",
+        "gothic_war_535_554",
+        "council_of_orange_529",
+        "elemund",
+        "ostrogothic_kingdom",
+        "ostrogothic_papacy",
+        "ravenna",
+        "ornella_fiorentini",
+        "list_of_frankish_synods"
+      ]
+    },
+    {
+      "id": "5a77bef05542992a6e59dfaf",
+      "question": "Dr Jan Schneider ran for United States Congress in Florid but lost twice to which Republican politician?",
+      "answer": "Katherine Harris",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "jan_schneider",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "jan_schneider",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "katherine_harris",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "sanctity_of_life_act",
+        "shelley_sekula_gibbs",
+        "jan_schneider",
+        "irene_griffin",
+        "harry_c_woodyard",
+        "katherine_harris",
+        "charles_dorr",
+        "helen_chenoweth_hage",
+        "samuel_brenton",
+        "jack_e_robinson_iii"
+      ]
+    },
+    {
+      "id": "5a712e895542994082a3e636",
+      "question": "C.J. Hunter was tested positive for which type of injected steroid before he competed in the 2000 Summer Olympic Games?",
+      "answer": "anabolic–androgenic steroid (AAS)",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "c_j_hunter",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "nandrolone",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "hungary_at_the_2008_summer_olympics",
+        "2008_summer_olympics",
+        "jennifer_parilla",
+        "antonakis_andreou",
+        "nandrolone",
+        "hysen_pulaku",
+        "azerbaijan_at_the_2004_summer_paralympics",
+        "trinidad_and_tobago_at_the_2008_summer_olympics",
+        "c_j_hunter",
+        "scot_hollonbeck"
+      ]
+    },
+    {
+      "id": "5a7bb16f554299294a54aa9f",
+      "question": "Rani Jhansi Marine National Park commemorates what queen of the princely state of Jhansi in North India?",
+      "answer": "Lakshmibai, the Rani of Jhansi",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "rani_jhansi_marine_national_park",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "rani_of_jhansi",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "rani_jhansi_marine_national_park",
+        "malindi_marine_national_park",
+        "jhansi_state",
+        "middle_button_island_national_park",
+        "jammu_amp_kashmir_national_conference",
+        "south_button_island_national_park",
+        "marine_national_park_gulf_of_kutch",
+        "rani_of_jhansi",
+        "north_zone_women_s_cricket_team",
+        "bunurong_marine_national_park"
+      ]
+    },
+    {
+      "id": "5adcf2b55542992c1e3a24cd",
+      "question": "How many children's books has the writer of the sitcom Maid Marian and her Merry Men written ? ",
+      "answer": "sixteen",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "maid_marian_and_her_merry_men",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "tony_robinson",
+          "sent_id": 3
+        }
+      ],
+      "context_paragraph_ids": [
+        "ramsay_gilderdale",
+        "howard_lew_lewis",
+        "adam_morris",
+        "kate_lonergan",
+        "david_lloyd_actor",
+        "mike_edmonds",
+        "robin_hood_the_legend_of_sherwood",
+        "tony_robinson",
+        "maid_marian_and_her_merry_men",
+        "list_of_maid_marian_and_her_merry_men_episodes"
+      ]
+    },
+    {
+      "id": "5ae212c9554299495565d9de",
+      "question": "Which rebellion did Sir John Wedderburn and Charles Edward Stuart fight for that ended with defeat at the Battle of Culloden?",
+      "answer": "the unsuccessful Jacobite uprising of 1745",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "sir_john_wedderburn_5th_baronet_of_blackness",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "charles_edward_stuart",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "lost_portrait_of_charles_edward_stuart",
+        "charles_edward_stuart",
+        "sir_john_wedderburn_5th_baronet_of_blackness",
+        "john_wedderburn_of_ballendean",
+        "the_skye_boat_song",
+        "culloden_tower",
+        "jacobite_rising_of_1745",
+        "battle_of_prestonpans",
+        "ogilvy_wedderburn_baronets",
+        "prince_charlie_s_cave"
+      ]
+    },
+    {
+      "id": "5ac120c55542992a796dedfc",
+      "question": "Maxeda has been owned since 2004 by which American multinational equity firm?",
+      "answer": "KKR & Co",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "maxeda",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "kohlberg_kravis_roberts",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "kohlberg_kravis_roberts",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "lincolnshire_management",
+        "maxeda",
+        "kohlberg_kravis_roberts",
+        "hggc",
+        "leeds_equity_partners",
+        "manischewitz",
+        "polycom",
+        "avenue_capital_group",
+        "court_square_capital_partners",
+        "mekong_capital"
+      ]
+    },
+    {
+      "id": "5ab5cc4a554299637185c61b",
+      "question": "Which director is from the US, Wayne Wang or W. D. Richter?",
+      "answer": "W. D. Richter",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "wayne_wang",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "w_d_richter",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "powerstrip_studio",
+        "the_joy_luck_club_film",
+        "amy_tan",
+        "faye_yu",
+        "w_d_richter",
+        "the_center_of_the_world",
+        "wayne_wang",
+        "smoke_film",
+        "cora_miao",
+        "maid_in_manhattan"
+      ]
+    },
+    {
+      "id": "5a808b57554299485f598651",
+      "question": "Ithihasa and the Indian music composer of  \"Chronic Bachelor\", \"Udayananu Tharam\", \"Naran\", \"Puthiya Mukham,\" \"Urumi\", \"Grandmaster\" and \"Bhaskar the Rascal\" are known in what type of films/cinema?",
+      "answer": "Malayalam",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "ithihasa",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "deepak_dev",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "puthiya_mukham",
+        "diphan",
+        "mithoon",
+        "udayananu_tharam",
+        "list_of_malayalam_films_of_2005",
+        "ithihasa",
+        "monty_sharma",
+        "deepak_dev",
+        "vijaya_bhaskar",
+        "casanovva"
+      ]
+    },
+    {
+      "id": "5a8af56855429950cd6afc2f",
+      "question": "What kind of film was the film who featured Auli'i Cravalho?",
+      "answer": "3D computer-animated musical fantasy-adventure film",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "moana_2016_film",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "auli_i_cravalho",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "moana_2016_film",
+        "encounters_of_the_spooky_kind",
+        "arms_song",
+        "iso_suomen_kielioppi",
+        "how_far_i_ll_go",
+        "encounters_of_the_spooky_kind_ii",
+        "auli_mantila",
+        "auli_i_cravalho",
+        "list_of_accolades_received_by_moana_2016_film",
+        "the_collector_1997_film"
+      ]
+    },
+    {
+      "id": "5add10ca5542994ed6169c59",
+      "question": "Were Illinois Institute of Technology and Boise State University both bounded before 1950?",
+      "answer": "yes",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "illinois_institute_of_technology",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "boise_state_university",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "2002_boise_state_broncos_football_team",
+        "2009_10_boise_state_broncos_men_s_basketball_team",
+        "boise_state_university",
+        "boise_state_nevada_football_rivalry",
+        "leon_rice_basketball",
+        "1992_boise_state_broncos_football_team",
+        "1996_boise_state_broncos_football_team",
+        "greg_patton",
+        "illinois_institute_of_technology",
+        "list_of_boise_state_broncos_bowl_games"
+      ]
+    },
+    {
+      "id": "5a8595005542992a431d1b40",
+      "question": "What product is being built at a 107,000 acre industrial park for Tesla Motors?",
+      "answer": "lithium-ion battery",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "tahoe_reno_industrial_center",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "tahoe_reno_industrial_center",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "gigafactory_1",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "liuyang_two_oriented_industrial_park",
+        "frederick_oklahoma",
+        "plant_city_airport",
+        "tahoe_reno_industrial_center",
+        "stanford_research_park",
+        "pureland_industrial_complex",
+        "carmelray_industrial_park_2",
+        "midamerica_industrial_park",
+        "gigafactory_1",
+        "ningxiang_high_tech_industrial_park"
+      ]
+    },
+    {
+      "id": "5ae328f45542991a06ce993c",
+      "question": "On which station did the 2014 South Korean television series, starring the main rapper of boyband SS501, air?",
+      "answer": "KBS2",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "inspiring_generation",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "inspiring_generation",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "kim_hyun_joong",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "kim_hyung_jun",
+        "baro_singer",
+        "inspiring_generation",
+        "rap_monster",
+        "heo_young_saeng",
+        "boys_over_flowers_tv_series",
+        "kim_kyu_jong",
+        "ok_taec_yeon",
+        "park_jung_min_singer",
+        "kim_hyun_joong"
+      ]
+    },
+    {
+      "id": "5ae394e05542990afbd1e18d",
+      "question": "\"The Fixer\" is a song from an album produced by who ?",
+      "answer": "Brendan O'Brien",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "the_fixer_song",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "backspacer",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "jamey_johnson",
+        "como_tu_mujer",
+        "la_guirnalda",
+        "bigger_hands",
+        "the_fixer_song",
+        "spark_marit_larsen_album",
+        "nelly_furtado_discography",
+        "backspacer",
+        "i_am_me",
+        "owari_no_hoshi_no_love_song"
+      ]
+    },
+    {
+      "id": "5a7d3f895542995f4f402248",
+      "question": "Pandora- The World of Avatar includes a ride that allows guest to take flight on what animal?",
+      "answer": "mountain Banshee",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "pandora_the_world_of_avatar",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "avatar_flight_of_passage",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "take_flight_llc",
+        "fictional_universe_of_avatar",
+        "feral_chicken",
+        "smoke_donkey",
+        "na_vi_river_journey",
+        "listen_to_the_crows_as_they_take_flight",
+        "pandora_the_world_of_avatar",
+        "avatar_flight_of_passage",
+        "dreams_take_flight",
+        "kid_dakota"
+      ]
+    },
+    {
+      "id": "5a8900c75542997e5c09a6ed",
+      "question": "What ingredient is in both Cosmopolitan and Cuba Libre?",
+      "answer": "lime",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "cosmopolitan_cocktail",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "cuba_libre",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "2016_rouen_fire",
+        "matthew_levin_chef",
+        "cuba_libre_disambiguation",
+        "cosmopolitan_cocktail",
+        "camp_cuba_libre",
+        "cuba_libre",
+        "celts_and_cobras",
+        "cuba_libre_song",
+        "dreaming_of_julia",
+        "liquorice_stick_cocktail"
+      ]
+    },
+    {
+      "id": "5ae492955542995ad6573daa",
+      "question": "The rock band Sugar Ray began as a funk metal band, while the band Das Damen was considered what?",
+      "answer": "alternative rock",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "das_damen",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "sugar_ray",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "floored",
+        "sugar_ray_album",
+        "someday_sugar_ray_song",
+        "when_it_s_over_sugar_ray_song",
+        "lemonade_and_brownies",
+        "fly_sugar_ray_song",
+        "14_59",
+        "falls_apart_sugar_ray_song",
+        "sugar_ray",
+        "das_damen"
+      ]
+    },
+    {
+      "id": "5a713ea95542994082a3e6e4",
+      "question": "Alvaro Mexia had a diplomatic mission with which tribe of indigenous people?",
+      "answer": "Apalachees",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "alvaro_mexia",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "alvaro_mexia",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "indigenous_peoples_of_florida",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "high_commission_of_australia_london",
+        "diplomatic_mission",
+        "diplomatic_bag",
+        "embassy_of_china_london",
+        "alvaro_mexia",
+        "embassy_of_the_united_states_nairobi",
+        "list_of_diplomatic_missions_of_azerbaijan",
+        "head_of_mission",
+        "united_states_mission_to_the_european_union",
+        "indigenous_peoples_of_florida"
+      ]
+    },
+    {
+      "id": "5a746a4455429974ef308bf6",
+      "question": "Which tennis player is older out of John Peers and Simone Bolelli?",
+      "answer": "Simone Bolelli",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "john_peers",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "simone_bolelli",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "reginald_doherty",
+        "david_goffin",
+        "2015_trofeo_faip_perrel_singles",
+        "pam_teeguarden",
+        "simone_pratt",
+        "sophie_simone_cortina",
+        "simone_bolelli",
+        "john_peers",
+        "fabio_fognini",
+        "gonzales_rosewall_rivalry"
+      ]
+    },
+    {
+      "id": "5a79edfe5542990198eaf006",
+      "question": "Who is is known domestically for his humorous videos and stage performances and released his sixth studio album in 2012?",
+      "answer": "Psy",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "gangnam_style",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "gangnam_style",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "psy",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "psy",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "the_circus_starring_britney_spears",
+        "the_gypsy_s_wife",
+        "chinese_democracy",
+        "oral_fixation_vol_1_amp_2",
+        "trisha_yearwood_discography",
+        "gangnam_style",
+        "the_med_lla_videos",
+        "psy",
+        "gravity_lecrae_album",
+        "psy_discography"
+      ]
+    },
+    {
+      "id": "5a85f2f55542997b5ce40036",
+      "question": "Which genus of flowering plants has the most species, Caesalpinia or Achimenes?",
+      "answer": "Caesalpinia",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "caesalpinia",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "caesalpinia",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "achimenes",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "caesalpinia",
+        "psychotria",
+        "cyrtandra_plant",
+        "austrobaileyales",
+        "zeltnera",
+        "echinacea",
+        "achimenes",
+        "eriocaulon",
+        "sudamerlycaste",
+        "magnolia_virginiana"
+      ]
+    },
+    {
+      "id": "5ae1ab2f554299234fd042ba",
+      "question": "Who was the director of the 1987 American psychological thriller film in which the actor, who played Bob Charles in \"Not Necessarily the News\", appeared?",
+      "answer": "Adrian Lyne",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "stuart_pankin",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "stuart_pankin",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "fatal_attraction",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "stay_2005_film",
+        "the_stepfather_1987_film",
+        "fatal_attraction",
+        "kiss_daddy_goodnight",
+        "fatal_attraction_disambiguation",
+        "andru_peytha_mazhaiyil",
+        "bob_hughes",
+        "the_bedroom_window_1987_film",
+        "esai_morales",
+        "stuart_pankin"
+      ]
+    },
+    {
+      "id": "5a84f5195542994c784dda9d",
+      "question": "What is the current position held by the Nathan Sharansky's co-author of the book The Case for Democracy?",
+      "answer": "Israeli Ambassador",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "the_case_for_democracy",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "ron_dermer",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "ron_dermer",
+        "maya_harris",
+        "allison_garrett",
+        "todd_philip_haskell",
+        "the_case_for_democracy",
+        "tsewang_rigzin",
+        "avital_sharansky",
+        "moving_map_display",
+        "defending_identity",
+        "hamadou_moustapha"
+      ]
+    },
+    {
+      "id": "5ab97d0a5542996be202051e",
+      "question": "Who was hung for assisting the attempted surrender of a defector from the American Continental Army to the British Army?",
+      "answer": "John André",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "john_andr",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "benedict_arnold",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "benjamin_lincoln",
+        "1st_virginia_state_regiment",
+        "siege_of_yorktown",
+        "benedict_arnold",
+        "battle_of_germantown",
+        "board_of_war",
+        "john_andr",
+        "national_memorial_arch",
+        "list_of_continental_army_units",
+        "pulaski_s_legion"
+      ]
+    },
+    {
+      "id": "5a7fd7a25542992e7d278dc3",
+      "question": "What occupation do Anita Loos and Grace Metalious share? ",
+      "answer": "American author",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "anita_loos",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "grace_metalious",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "mary_loos",
+        "john_emerson_filmmaker",
+        "anita_loos",
+        "gentlemen_prefer_blondes_novel",
+        "hold_your_man",
+        "return_to_peyton_place_film",
+        "gentlemen_marry_brunettes",
+        "grace_metalious",
+        "gentlemen_prefer_blondes_musical",
+        "r_beers_loos"
+      ]
+    },
+    {
+      "id": "5a7b241b554299042af8f705",
+      "question": "Who died second, Averroes or Ibn Taymiyyah?",
+      "answer": "ibn Taymiyyah",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "averroes",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "ibn_taymiyyah",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "the_great_compilation_of_fatwa",
+        "al_jaw_b_al_a_li_man_baddala_d_n_al_mas_h",
+        "averroes",
+        "the_book_of_faith",
+        "ibn_abd_al_hadi",
+        "al_aqidah_al_waasitiyyah",
+        "le_statut_des_moines",
+        "ibn_taymiyyah",
+        "ibn_muflih",
+        "ibn_qayyim_al_jawziyya"
+      ]
+    },
+    {
+      "id": "5ae063085542993d6555eb37",
+      "question": "Jennifer Ventimilia co-wrote the teleplay of the episode that was part of which season of The Simpsons?",
+      "answer": "sixth season",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "jennifer_ventimilia",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "round_springfield",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "22_short_films_about_springfield",
+        "pilot_the_office",
+        "dave_pressler",
+        "release_the_x_files",
+        "swan_song_supernatural",
+        "you_kent_always_say_what_you_want",
+        "the_simpsons_138th_episode_spectacular",
+        "round_springfield",
+        "jennifer_ventimilia",
+        "simpson_tide"
+      ]
+    },
+    {
+      "id": "5a7fc6645542992e7d278d6e",
+      "question": "What type of tours does the host of Tosh.0 conduct?",
+      "answer": "stand-up comedy",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "tosh_0",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "daniel_tosh",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "the_rolling_stones_us_tour_1978",
+        "0_4_0_0_4_0",
+        "tosh_0",
+        "1996_english_cricket_season",
+        "daniel_tosh",
+        "jehovah_s_witnesses_and_congregational_discipline",
+        "4_8_0_0_8_4",
+        "civic_action_program",
+        "2_4_0_0_4_2",
+        "prussian_p_2"
+      ]
+    },
+    {
+      "id": "5a797bd95542994bb9457016",
+      "question": "What age was Georgia Middleman when she started singing in the seventh-most populated city in the United States?",
+      "answer": "ten",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "georgia_middleman",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "san_antonio",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "wyoming_valley",
+        "belleville_illinois",
+        "kyle_echarri",
+        "georgia_middleman",
+        "san_antonio",
+        "pallaso",
+        "anita_bitri",
+        "alfio",
+        "union_county_new_jersey",
+        "peoria_illinois"
+      ]
+    }
+  ],
+  "test": [
+    {
+      "id": "5a8da70a5542994ba4e3dcea",
+      "question": "Ashly Burch is known for voicing Aloy in a video game released in what year?",
+      "answer": "2017",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "ashly_burch",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "horizon_zero_dawn",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "ashly_burch",
+        "golden_nugget_casino_ds",
+        "dragon_ball_xenoverse",
+        "there_came_an_echo",
+        "must_come_down",
+        "cadash",
+        "wwf_raw_2002_video_game",
+        "horizon_zero_dawn",
+        "space_spartans",
+        "hey_ash_whatcha_playin"
+      ]
+    },
+    {
+      "id": "5abdff775542993f32c2a082",
+      "question": "At what theater is the composer and lyricist for the musical Big Fish a residential artist?",
+      "answer": "Ars Nova Theater",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "big_fish_musical",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "andrew_lippa",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "duet_all_night_long",
+        "mystery_case_files_escape_from_ravenhearst",
+        "mystery_case_files_dire_grove",
+        "big_fish_musical",
+        "burger_king_fish_sandwiches",
+        "dan_regan",
+        "aaron_barrett",
+        "andrew_lippa",
+        "hidden_expedition",
+        "jeremy_lewis"
+      ]
+    },
+    {
+      "id": "5ac5382c5542996feb3fea43",
+      "question": "What year was the company, who released Forever Kingdom for PlayStation 2, founded?",
+      "answer": "1986",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "forever_kingdom",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "fromsoftware",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "the_king_of_fighters_2000",
+        "pro_evolution_soccer_6",
+        "high_impact_games",
+        "sanzaru_games",
+        "killzone_series",
+        "playstation_underground",
+        "fromsoftware",
+        "forever_kingdom",
+        "dancing_stage_fusion",
+        "tony_hawk_s_pro_skater_3"
+      ]
+    },
+    {
+      "id": "5a7380e855429905862fe041",
+      "question": "What relative of Charles Hirshberg made important contributions to the study of solar wind particles and fields, as well as sun-Earth relations; and magnetospheric physics?",
+      "answer": "Joan Feynman",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "charles_hirshberg",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "charles_hirshberg",
+          "sent_id": 4
+        },
+        {
+          "paragraph_id": "joan_feynman",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "joan_feynman",
+        "van_allen_radiation_belt",
+        "magnetometer_juno",
+        "magnetopause",
+        "solar_wind",
+        "pickup_ion",
+        "charles_hirshberg",
+        "comparative_planetary_science",
+        "explorer_14",
+        "heliophysics"
+      ]
+    },
+    {
+      "id": "5a73024f5542991f9a20c5fc",
+      "question": "what year was the cover artist of Multiverse: Exploring Poul Anderson's Worlds born ?",
+      "answer": "September 13, 1960",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "multiverse_exploring_poul_anderson_s_worlds",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "bob_eggleton",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "delenda_est",
+        "quest_anderson_novelette",
+        "the_many_worlds_of_poul_anderson",
+        "the_high_crusade",
+        "bob_eggleton",
+        "multiverse_exploring_poul_anderson_s_worlds",
+        "the_best_of_poul_anderson",
+        "the_psychotechnic_league",
+        "earthman_s_burden",
+        "hoka_hoka_hoka"
+      ]
+    },
+    {
+      "id": "5a8b448255429971feec468c",
+      "question": "Stephen Graham starred in a film in 2006, directed by whom?",
+      "answer": "directed by Shane Meadows",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "stephen_graham",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "this_is_england",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "demon_theory",
+        "public_enemies_2009_film",
+        "funny_cow",
+        "pit_fighter_film",
+        "lauren_graham",
+        "awaydays",
+        "stephen_wade",
+        "stephen_graham",
+        "blood_2012_film",
+        "this_is_england"
+      ]
+    },
+    {
+      "id": "5a778d7855429967ab1051fa",
+      "question": "Who has a dedication on the score of the one-act opera buffa, Mavra, and whose music made a lasting international impression as a Russian composer?",
+      "answer": "Pyotr Ilyich Tchaikovsky",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "mavra",
+          "sent_id": 5
+        },
+        {
+          "paragraph_id": "pyotr_ilyich_tchaikovsky",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "mavra",
+        "amelia_goes_to_the_ball",
+        "almerindo_spadetta",
+        "scott_joiner",
+        "michael_f_robinson",
+        "tartuffe_mechem",
+        "pyotr_ilyich_tchaikovsky",
+        "number_opera",
+        "rothschild_s_violin_opera",
+        "mavra_disambiguation"
+      ]
+    },
+    {
+      "id": "5a739b1955429978a71e9044",
+      "question": "What company claims to manufacture one out of every three objects that provide a shelf life typically ranging from one to five years?",
+      "answer": "Crown Holdings Incorporated",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "crown_holdings",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "crown_holdings",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "canning",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "shelf_life_novel",
+        "canning",
+        "chapter_13_title_11_united_states_code",
+        "the_university_of_pennsylvania_band",
+        "kinetic_monte_carlo_surface_growth_method",
+        "cyanoacrylate",
+        "confidence_group",
+        "buddhism_and_sexuality",
+        "canned_fish",
+        "crown_holdings"
+      ]
+    },
+    {
+      "id": "5a85a37d5542997175ce1fe5",
+      "question": "How many termini does the train that runs on the C&M subdivision and runs between Chicago and the Pacific Northwest serve?",
+      "answer": "two termini",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "c_amp_m_subdivision",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "empire_builder",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "mainstreeter",
+        "empire_builder",
+        "nashville_terminal_subdivision",
+        "galt_subdivision",
+        "rocky_iaukea",
+        "pacific_northwest_bell",
+        "c_amp_m_subdivision",
+        "mike_miller_wrestler",
+        "pacific_northwest_languages",
+        "olympian_hiawatha"
+      ]
+    },
+    {
+      "id": "5a7fd1515542992e7d278db1",
+      "question": "Grimsby Minster is located in which English Province?",
+      "answer": "Province of Canterbury",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "grimsby_minster",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "diocese_of_lincoln",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "religious_life_at_stonyhurst_college",
+        "daniel_coxe_jr",
+        "cambridge_blackfriars",
+        "york_shire_province_of_new_york",
+        "grimsby_minster",
+        "siege_of_fort_nashwaak_1696",
+        "st_james_school_grimsby",
+        "diocese_of_lincoln",
+        "timothy_radcliffe",
+        "raid_on_chignecto_1696"
+      ]
+    },
+    {
+      "id": "5a8c2d23554299240d9c20b7",
+      "question": "Who directed the 2007 film which  Sasson Gabai won an Ophir Award for?",
+      "answer": "Eran Kolirin",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "sasson_gabai",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "sasson_gabai",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "the_band_s_visit",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "the_band_s_visit",
+        "hunting_elephants",
+        "yana_s_friends",
+        "joseph_cedar",
+        "no_names_on_the_doors",
+        "sh_chur",
+        "foxtrot_2017_film",
+        "sasson_gabai",
+        "beyond_the_sea_1991_film",
+        "the_farewell_party"
+      ]
+    },
+    {
+      "id": "5ae1f17e554299234fd04349",
+      "question": "Which is located in Cornwall, Southwell Minster or Truro Cathedral?",
+      "answer": "The Cathedral of the Blessed Virgin Mary, Truro",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "southwell_minster",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "truro_cathedral",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "truro_cathedral_school",
+        "dean_of_southwell",
+        "convent_of_the_epiphany",
+        "truro_cathedral",
+        "southwell_minster",
+        "southwell_minster_school",
+        "minster_church",
+        "diocese_of_southwell_and_nottingham",
+        "southwell_nottinghamshire",
+        "dean_of_truro"
+      ]
+    },
+    {
+      "id": "5ab3bd7d55429969a97a819f",
+      "question": "Which team featured in both the 2012 and 2011 Cops del Rey Finals ?",
+      "answer": "Barcelona",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "2012_copa_del_rey_final",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "2010_11_copa_del_rey",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "del_rey_manga",
+        "lana_del_ray_album",
+        "2010_11_copa_del_rey",
+        "tropico_film",
+        "lana_del_rey_ep",
+        "2012_copa_del_rey_final",
+        "yayo_lana_del_rey_song",
+        "lana_del_rey_videography",
+        "sara_del_rey",
+        "summertime_sadness"
+      ]
+    },
+    {
+      "id": "5a90843c5542995651fb517e",
+      "question": "Francisco Jose Hernandez was a participant in an invasion that took place in what year?",
+      "answer": "1961",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "francisco_jose_hernandez",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "bay_of_pigs_invasion",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "michael_lunin",
+        "ted_kubiak",
+        "wwf_invasion",
+        "mls_cup_2003",
+        "bay_of_pigs_invasion",
+        "francisco_jose_hernandez",
+        "frank_martin_basketball",
+        "allied_invasion_of_italy",
+        "treaty_of_taipei",
+        "battle_of_clitheroe"
+      ]
+    },
+    {
+      "id": "5a8ac4085542992d82986f74",
+      "question": "Who was the film which was Kim Dae-woo's directing debut about ?",
+      "answer": "a scholar",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "kim_dae_woo",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "forbidden_quest",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "elliott_lester",
+        "anthony_c_ferrante",
+        "sayo_yamamoto",
+        "who_s_the_man",
+        "forbidden_quest",
+        "senkichi_taniguchi",
+        "obsessed_2014_film",
+        "kim_dae_woo",
+        "bill_berry_director",
+        "juice_film"
+      ]
+    },
+    {
+      "id": "5abb14d85542996cc5e49f92",
+      "question": "Are Alexander Kluge and Sidney Salkow of the same nationality?",
+      "answer": "no",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "alexander_kluge",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "sidney_salkow",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "exclusive_film",
+        "the_lone_wolf_keeps_a_date",
+        "alexander_kluge",
+        "the_great_sioux_massacre",
+        "the_lone_wolf_takes_a_chance",
+        "artists_under_the_big_top_perplexed",
+        "robbers_roost_film",
+        "sidney_salkow",
+        "anita_g",
+        "yesterday_girl"
+      ]
+    },
+    {
+      "id": "5a7fb1e55542995d8a8ddef7",
+      "question": "Which documentary film premiered first, Grizzly Man or Pray the Devil Back to Hell?",
+      "answer": "Grizzly Man",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "grizzly_man",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "pray_the_devil_back_to_hell",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "pray_the_devil_back_to_hell",
+        "grizzly_man_soundtrack",
+        "pray_for_japan",
+        "timothy_treadwell",
+        "surfwise",
+        "fear_factor_khatron_ke_khiladi_season_8",
+        "grizzly_man",
+        "josh_gilbert_filmmaker",
+        "doug_pray",
+        "coyotes_song"
+      ]
+    },
+    {
+      "id": "5a84e21d5542997b5ce3ff7c",
+      "question": "The actress and singer Heather Morris is best known for her role in which series, becoming a regular character in the second season?",
+      "answer": "Glee",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "brittany_pierce",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "brittany_pierce",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "brittany_pierce",
+          "sent_id": 6
+        },
+        {
+          "paragraph_id": "heather_morris",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "rory_flanagan",
+        "a_very_glee_christmas",
+        "santana_lopez",
+        "sexy_glee",
+        "brittany_pierce",
+        "crazy_eyes_character",
+        "csi_ny_season_2",
+        "heather_morris",
+        "britney_brittany",
+        "born_this_way_glee"
+      ]
+    },
+    {
+      "id": "5ae05c9f55429945ae959348",
+      "question": "What is the capitol of the district that also includes the village of Shienga?",
+      "answer": "Gambaga",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "shienga",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "east_mamprusi_district",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "granby_mill_village_historic_district",
+        "benicia_capitol_state_historic_park",
+        "east_mamprusi_district",
+        "shienga",
+        "phillipsdale_historic_district",
+        "north_boone_community_unit_school_district_200",
+        "dolington_village_historic_district",
+        "shelbyville_historic_district",
+        "fruita_rural_historic_district",
+        "new_marlborough_village"
+      ]
+    },
+    {
+      "id": "5ae65c925542992ae0d162f9",
+      "question": "Who was the producer of the 1994 American animated epic musical film which Mel Shaw animated?",
+      "answer": "Don Hahn",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "mel_shaw",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "the_lion_king",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "anastasia_1997_film",
+        "the_lion_king_2019_film",
+        "mel_shaw",
+        "mel_shaw_racing_driver",
+        "the_prince_of_egypt",
+        "the_lion_king",
+        "the_plague_dogs_film",
+        "balto_film",
+        "the_jungle_king",
+        "fire_and_ice_1983_film"
+      ]
+    },
+    {
+      "id": "5ab84bab55429934fafe6d49",
+      "question": "Terence Richard \"Terry\" Norris starred in a 2007 Australian drama film that was directed by Richard Roxburgh, and was based on a memoir by who?",
+      "answer": "Raimond Gaita",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "terry_norris_actor",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "romulus_my_father_film",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "romulus_my_father_film",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "terry_norris_actor",
+        "tracks_2013_film",
+        "lucky_miles",
+        "romulus_my_father_film",
+        "in_the_winter_dark_film",
+        "doing_time_for_patsy_cline",
+        "the_league_of_extraordinary_gentlemen_film",
+        "maya_the_bee_2014_film",
+        "passion_1999_film",
+        "september_2007_film"
+      ]
+    },
+    {
+      "id": "5a762d53554299109176e6a7",
+      "question": "What was the the origin of the player that the Bull's traded with 76ers during the 1999-2000 midseason?",
+      "answer": "Croatian",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "1999_2000_chicago_bulls_season",
+          "sent_id": 4
+        },
+        {
+          "paragraph_id": "toni_kuko",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "list_of_philadelphia_76ers_head_coaches",
+        "1997_98_detroit_pistons_season",
+        "1983_84_philadelphia_76ers_season",
+        "1999_2000_chicago_bulls_season",
+        "joel_embiid",
+        "1999_2000_philadelphia_76ers_season",
+        "2000_01_atlanta_hawks_season",
+        "1976_nba_draft",
+        "1998_99_philadelphia_76ers_season",
+        "toni_kuko"
+      ]
+    },
+    {
+      "id": "5a835b88554299123d8c2101",
+      "question": "Arnold Richards was the former chair of what organization that is a member of the Center for Jewish History?",
+      "answer": "YIVO",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "arnold_richards",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "yivo",
+          "sent_id": 3
+        }
+      ],
+      "context_paragraph_ids": [
+        "moses_rischin",
+        "arnold_richards",
+        "gershon_galil",
+        "jeffrey_s_gurock",
+        "yivo",
+        "david_n_myers",
+        "center_for_jewish_history",
+        "carole_b_balin",
+        "hikmet_tanyu",
+        "israel_bartal"
+      ]
+    },
+    {
+      "id": "5ae2e8e05542991a06ce98fb",
+      "question": "For which band, was the female member of Fitz and The Tantrums, the front woman for ten years ?",
+      "answer": "The Rebirth",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "fitz_and_the_tantrums",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "noelle_scaggs",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "james_king_musician",
+        "blood_sweat_amp_3_years",
+        "noelle_scaggs",
+        "michael_fitzpatrick_musician",
+        "handclap",
+        "songs_for_a_breakup_vol_1",
+        "fitz_and_the_tantrums",
+        "elina_siirala",
+        "spencer_ludwig",
+        "out_of_my_league"
+      ]
+    },
+    {
+      "id": "5a713dcb5542994082a3e6d9",
+      "question": "What pursuit did both Gevork Minaskanian and George Stambolian have in common?",
+      "answer": "American educator, writer,",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "gevork_minaskanian",
+          "sent_id": 4
+        },
+        {
+          "paragraph_id": "george_stambolian",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "george_stambolian",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "saint_gevork_monastery_of_mughni",
+        "george_stambolian",
+        "gevorg",
+        "gevork_minaskanian",
+        "gevorgyan",
+        "saint_gevork_of_mughni_church_tbilisi",
+        "the_common_pursuit",
+        "saint_george_s_church_garnahovit",
+        "george_g_finch",
+        "george_manook"
+      ]
+    },
+    {
+      "id": "5ac1682855429964131be1d2",
+      "question": "A journal to which Jim Rasenberger contributes is the official journal of an institute located in what city?",
+      "answer": "Washington, D.C.",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "jim_rasenberger",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "smithsonian_magazine",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "jim_rasenberger",
+        "hiv_medicine",
+        "life_sciences_in_space_research",
+        "asian_pacific_journal_of_cancer_prevention",
+        "journal_of_investigative_medicine",
+        "journal_of_environmental_economics_and_management",
+        "journal_of_business_amp_securities_law",
+        "official_journal_of_the_european_patent_office",
+        "folia_primatologica",
+        "smithsonian_magazine"
+      ]
+    },
+    {
+      "id": "5a8c9641554299585d9e36f5",
+      "question": "Which season of Alias does the English actor, who was born 25 June 1961, appear?",
+      "answer": "three",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "alias_season_3",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "alias_season_3",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "ricky_gervais",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "lvaro_solano",
+        "jopie_nooren",
+        "alias_season_3",
+        "peter_hudson_royal_navy_officer",
+        "guillermo_hu_zar",
+        "massimo_ghirotto",
+        "dave_smith_footballer_born_1961",
+        "yinka_durosinmi",
+        "ricky_gervais",
+        "brian_coleman"
+      ]
+    },
+    {
+      "id": "5a83bfc8554299123d8c21a1",
+      "question": "What is the worth of the logo that appears alongside the \"Just Do It\" slogan?",
+      "answer": "$26 billion",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "just_do_it",
+          "sent_id": 5
+        },
+        {
+          "paragraph_id": "swoosh",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "delia_murphy",
+        "abaddon",
+        "gregoir_of_dunkeld",
+        "just_do_it",
+        "manam_film",
+        "beefsquatch",
+        "swoosh",
+        "newspaper_display_advertising",
+        "danny_pink",
+        "gille_coluim_the_marischal"
+      ]
+    },
+    {
+      "id": "5a8e7c095542990e94052b22",
+      "question": "When did the person for whom Tubman University was named serve as President of his country?",
+      "answer": "1944 until his death in 1971",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "tubman_university",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "tubman_university",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "william_tubman",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "william_tubman",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "cheryl_contee",
+        "tubman_university",
+        "william_tubman",
+        "military_discharge",
+        "jacob_de_jager",
+        "susan_c_lee",
+        "uss_john_adams_1799",
+        "augustus_caine",
+        "liberian_national_museum",
+        "liberia_cement_corporation"
+      ]
+    },
+    {
+      "id": "5a7a0201554299029c4b5f9e",
+      "question": "Which of the starting pitchers for Team USA in the Baseball at the 2000 Summer Olympics was not born August 29, 1977?",
+      "answer": "Ben Sheets",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "baseball_at_the_2000_summer_olympics",
+          "sent_id": 4
+        },
+        {
+          "paragraph_id": "roy_oswalt",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "christin_petelski",
+        "tayyiba_haneef_park",
+        "aleksandr_lukyanov",
+        "heather_bown",
+        "john_hyden",
+        "natascha_keller",
+        "ralph_rodr_guez",
+        "2000_united_states_men_s_olympic_basketball_team",
+        "roy_oswalt",
+        "baseball_at_the_2000_summer_olympics"
+      ]
+    },
+    {
+      "id": "5ab3c53955429969a97a81b9",
+      "question": "Who won the special election in 2014 to replace Bill Young?",
+      "answer": "David Jolly",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "rod_smith_politician",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "alex_sink",
+          "sent_id": 3
+        }
+      ],
+      "context_paragraph_ids": [
+        "david_jolly",
+        "alex_sink",
+        "ed_neilson",
+        "born_again_tour_1983",
+        "louisiana_state_treasurer_special_election_2017",
+        "c_w_bill_young_regional_reservoir",
+        "terry_tornek",
+        "electoral_history_of_ed_markey",
+        "rod_smith_politician",
+        "san_diego_mayoral_special_election_2005"
+      ]
+    },
+    {
+      "id": "5a8b56d655429949d91db557",
+      "question": "The remaining two seasons of Kenan & Kel were filmed at which stage facility located at 6230 Sunset Boulevard in Hollywood, California?",
+      "answer": "Nick on Sunset",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "kenan_amp_kel",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "nickelodeon_on_sunset",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "star_search",
+        "metromedia_square",
+        "kenan_amp_kel",
+        "nickelodeon_on_sunset",
+        "united_western_recorders",
+        "sunset_gower_studios",
+        "hollywood_boulevard",
+        "fairfax_avenue",
+        "sunset_strip",
+        "old_warner_brothers_studio"
+      ]
+    },
+    {
+      "id": "5a8f91c755429918e830d26c",
+      "question": "What Estonian composer whose music is partly inspired by Gregorian chant set the Latin text of the Magnificat canticle in 1989?",
+      "answer": "Arvo Pärt",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "magnificat_p_rt",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "arvo_p_rt",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "arvo_p_rt",
+        "chant_ii_album",
+        "ambrosian_chant",
+        "italian_classical_music",
+        "tonary",
+        "old_roman_chant",
+        "magnificat_p_rt",
+        "meine_seele_erhebt_den_herren",
+        "gregorian_chant",
+        "semiology_gregorian_chant"
+      ]
+    },
+    {
+      "id": "5a7a230e5542996a35c170ee",
+      "question": "What year was the film that starred the composer for \"The Naked Brothers Band\"?",
+      "answer": "2014",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "the_fault_in_our_stars_film",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "nat_wolff",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "nat_wolff",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "alex_wolff",
+        "operation_mojo",
+        "nat_and_alex_wolff",
+        "the_fault_in_our_stars_film",
+        "mystery_girl_film",
+        "nat_wolff",
+        "i_don_t_want_to_go_to_school",
+        "the_naked_brothers_band_music_from_the_movie",
+        "the_naked_brothers_band_album",
+        "the_premiere_film"
+      ]
+    },
+    {
+      "id": "5ae1faf15542997f29b3c1e3",
+      "question": "William Davis Ticknor, Sr. served on the board of a chemical and biotechnology company created in what year?",
+      "answer": "1919",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "william_davis_ticknor_sr",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "commercial_solvents_corporation",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "genzyme",
+        "peptech",
+        "william_ticknor",
+        "william_davis_ticknor_sr",
+        "john_f_milligan",
+        "manteia_predictive_medicine",
+        "daiichi_sankyo",
+        "icos",
+        "pascal_brandys",
+        "commercial_solvents_corporation"
+      ]
+    },
+    {
+      "id": "5ae72e5d5542991e8301cba8",
+      "question": "What position did the winner of the MVP in Pool C of the 2017 WBC play?",
+      "answer": "third baseman",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "2017_world_baseball_classic_pool_c",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "manny_machado",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "2017_fed_cup_europe_africa_zone_group_i_pool_c",
+        "georgia_at_the_rugby_world_cup",
+        "2007_rugby_world_cup_pool_c",
+        "2017_fed_cup_europe_africa_zone_group_iii_pool_c",
+        "2017_world_baseball_classic_pool_c",
+        "2015_rugby_world_cup_pool_c",
+        "2011_rugby_world_cup_pool_c",
+        "manny_machado",
+        "2017_fed_cup_americas_zone_group_ii_pool_c",
+        "2017_fed_cup_asia_oceania_zone_group_ii_pool_c"
+      ]
+    },
+    {
+      "id": "5ae0f3b955429920d523424e",
+      "question": "Are The Writer and Jewish Currents both magazines ?",
+      "answer": "yes",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "the_writer",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "jewish_currents",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "erica_brown",
+        "nuevo_mundo_israelita",
+        "morris_schappes",
+        "negation_of_the_diaspora",
+        "jewish_currents",
+        "janice_eidus",
+        "the_writer",
+        "antun_gustav_mato",
+        "wandering_stars",
+        "google_play_newsstand"
+      ]
+    },
+    {
+      "id": "5ab250b9554299722f9b4cd9",
+      "question": "The scientists who discovered Tedatioxetine were from what international pharmaceutical company?",
+      "answer": "Danish international pharmaceutical company",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "tedatioxetine",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "lundbeck",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "phospho_energon",
+        "behestan_darou",
+        "astra_ab",
+        "lupin_limited",
+        "lundbeck",
+        "ipca_laboratories",
+        "teva_active_pharmaceutical_ingredients_tapi",
+        "chinese_pharmaceutical_association",
+        "zandu_realty",
+        "tedatioxetine"
+      ]
+    },
+    {
+      "id": "5ae7ef625542994a481bbe40",
+      "question": "What is the name of this suburb within the Central Coast Council local government area, where Tessa, of Microwave Jenny, grew up?",
+      "answer": "Umina Beach, New South Wales",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "microwave_jenny",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "microwave_jenny",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "umina_beach_new_south_wales",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "magenta_new_south_wales",
+        "woy_woy_bay_new_south_wales",
+        "phegans_bay_new_south_wales",
+        "gorokan_new_south_wales",
+        "kulnura_new_south_wales",
+        "avoca_beach_new_south_wales",
+        "shelly_beach_new_south_wales",
+        "umina_beach_new_south_wales",
+        "microwave_jenny",
+        "hamlyn_terrace_new_south_wales"
+      ]
+    },
+    {
+      "id": "5a7521c55542993748c897c6",
+      "question": "Temagami-Lorrain Mine and Burwash Mine were both mines created during the early 1900s; which one yielded a 16-ton bulk sample of gold ore in 1935?",
+      "answer": "Burwash Mine",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "temagami_lorrain_mine",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "temagami_lorrain_mine",
+          "sent_id": 1
+        },
+        {
+          "paragraph_id": "temagami_lorrain_mine",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "burwash_mine",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "burwash_mine",
+          "sent_id": 2
+        }
+      ],
+      "context_paragraph_ids": [
+        "barton_mine",
+        "burwash_mine",
+        "borden_lake_mine",
+        "golden_fleece_mine_colorado",
+        "lost_nigger_gold_mine",
+        "hidee_gold_mine",
+        "temagami_lorrain_mine",
+        "malmberget_mine",
+        "st_john_s_mine",
+        "hutti_gold_mines_limited"
+      ]
+    },
+    {
+      "id": "5a848b5c5542997175ce1ef2",
+      "question": "What sub-genre of heavy metal describes the band \"It's Alive\"?",
+      "answer": "Glam metal",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "it_s_alive_band",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "glam_metal",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "metalucifer",
+        "thanasis_lightbridge",
+        "heavy_metal_bass",
+        "canadian_heavy_metal",
+        "the_history_of_heavy_metal",
+        "it_s_alive_band",
+        "kekal",
+        "acrassicauda",
+        "glam_metal",
+        "ob_s"
+      ]
+    },
+    {
+      "id": "5a75a76b5542992db9473697",
+      "question": "Which animal-themed Disney classic film appeared first: That Darn Cat! or Perri?",
+      "answer": "That Darn Cat!",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "that_darn_cat",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "perri_film",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "disney_magicboard_online",
+        "perri_film",
+        "that_darn_cat_1997_film",
+        "live_from_the_tcm_classic_film_festival",
+        "grasshopper_comics",
+        "jacques_tourneur",
+        "dean_jones_actor",
+        "that_darn_cat",
+        "stevie_and_zoya",
+        "angry_again"
+      ]
+    },
+    {
+      "id": "5ac311925542995ef918c0de",
+      "question": "Are Horace Ové and A. Edward Sutherland both photographers?",
+      "answer": "no",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "horace_ov",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "a_edward_sutherland",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "zak_ov",
+        "pressure_film",
+        "coming_through",
+        "a_edward_sutherland",
+        "it_s_the_old_army_game",
+        "horace_ov",
+        "burning_an_illusion",
+        "ivan_sutherland",
+        "the_orchid_house_tv_serial",
+        "playing_away"
+      ]
+    },
+    {
+      "id": "5ae27f22554299495565da8d",
+      "question": "In what year was the mathematician husband of Anneli Cahn Lax born?",
+      "answer": "1926",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "anneli_cahn_lax",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "peter_lax",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "anneli_cahn_lax",
+        "james_mac_hyman",
+        "kirsten_menger_anderson",
+        "thaleia_zariphopoulou",
+        "angela_steinm_ller",
+        "humphrey_critchley_salmonson",
+        "burton_wendroff",
+        "ivo_babu_ka",
+        "vera_t_s_s",
+        "peter_lax"
+      ]
+    },
+    {
+      "id": "5a8319a05542990548d0b178",
+      "question": "Was Artie Ziff a good prom date for Marge?",
+      "answer": "Artie turns out to be a terrible date",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "half_decent_proposal",
+          "sent_id": 2
+        },
+        {
+          "paragraph_id": "the_way_we_was",
+          "sent_id": 6
+        }
+      ],
+      "context_paragraph_ids": [
+        "the_way_we_was",
+        "half_decent_proposal",
+        "born_this_way_glee",
+        "william_katt",
+        "drive_me_crazy",
+        "time_sharing_novel",
+        "postcards_from_the_wedge",
+        "fantastic_magazine",
+        "the_night_before_1988_film",
+        "prom_queen_the_marc_hall_story"
+      ]
+    },
+    {
+      "id": "5a74122f55429929fddd83da",
+      "question": "What was the lead single from Boys Like Girls album on which frontman, Martin Johnson co-wrote a song with Taylor Swift? A: Love Drunk",
+      "answer": "Love Drunk",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "love_drunk",
+          "sent_id": 3
+        },
+        {
+          "paragraph_id": "two_is_better_than_one",
+          "sent_id": 1
+        }
+      ],
+      "context_paragraph_ids": [
+        "two_is_better_than_one",
+        "love_drunk_boys_like_girls_song",
+        "soundtrack_of_your_summer_tour",
+        "heart_heart_heartbreak",
+        "love_drunk",
+        "boys_like_girls",
+        "acapella_karmin_song",
+        "boys_like_girls_album",
+        "bad_for_me",
+        "love_drunk_disambiguation"
+      ]
+    },
+    {
+      "id": "5a84c6df5542997b5ce3ff61",
+      "question": "Did both Alan Crosland and Chris Columbus work as stage actor?",
+      "answer": "no",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "alan_crosland",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "chris_columbus_filmmaker",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "alan_crosland",
+        "chris_columbus_filmmaker",
+        "midnight_alibi",
+        "the_flapper",
+        "general_crack",
+        "contraband_1925_film",
+        "lady_tubbs",
+        "the_personality_kid",
+        "under_the_red_robe_1923_film",
+        "the_beloved_rogue"
+      ]
+    },
+    {
+      "id": "5a81e8ea5542995ce29dcc73",
+      "question": "Who played the role of Nettie Harris in the 1985 film directed by Steven Spielberg?",
+      "answer": "Akosua Gyamama Busia",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "akosua_busia",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "the_color_purple_film",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "influence_of_stanley_kubrick",
+        "matt_charman",
+        "akosua_busia",
+        "goonies_disambiguation",
+        "frank_marshall_producer",
+        "taken_miniseries",
+        "rick_carter",
+        "ren_e_elise_goldsberry",
+        "the_color_purple_film",
+        "minority_report_film"
+      ]
+    },
+    {
+      "id": "5abe832a55429965af743f29",
+      "question": "Two of the pharmacy schools are Midway College School of Pharmacy and which first for-profit college or university to receive the Southern Association of Colleges and Schools?",
+      "answer": "Sullivan University College of Pharmacy",
+      "type": "bridge",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "midway_college_school_of_pharmacy",
+          "sent_id": 5
+        },
+        {
+          "paragraph_id": "sullivan_university",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "university_of_tennessee_health_science_center",
+        "lake_erie_college_of_osteopathic_medicine",
+        "university_of_pittsburgh_school_of_pharmacy",
+        "pharmacy_college_admission_test",
+        "university_of_pharmacy_yangon",
+        "midway_college_school_of_pharmacy",
+        "university_of_pharmacy_mandalay",
+        "sullivan_university",
+        "arnold_and_marie_schwartz_college_of_pharmacy",
+        "aissms_college_of_pharmacy"
+      ]
+    },
+    {
+      "id": "5a7933b255429907847277eb",
+      "question": "Which composer was also a teacher, Philip Glass or Franz Schreker? ",
+      "answer": "Franz Schreker",
+      "type": "comparison",
+      "level": "hard",
+      "supporting_facts": [
+        {
+          "paragraph_id": "philip_glass",
+          "sent_id": 0
+        },
+        {
+          "paragraph_id": "franz_schreker",
+          "sent_id": 0
+        }
+      ],
+      "context_paragraph_ids": [
+        "anne_schwanewilms",
+        "franz_schreker",
+        "robert_vom_scheidt",
+        "marij_kogoj",
+        "alexander_lipsky",
+        "irrelohe",
+        "tara_hugo_sings_philip_glass",
+        "philip_glass",
+        "der_schatzgr_ber",
+        "die_gezeichneten"
+      ]
+    }
+  ]
+}

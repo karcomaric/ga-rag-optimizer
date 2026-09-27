@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+build/
+dist/
+
+# Pytest / Coverage / Ruff
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# Runtime-Artefakte (entstehen bei Experimenten, nicht ins Repo)
+chroma_db/
+embeddings_cache/
+data/processed/embeddings_cache/
+checkpoints/
+results/logs/
+outputs/
+mlruns/
+
+# Notebook-Checkpoints
+.ipynb_checkpoints/
+
+# Modelle und Caches (werden zur Laufzeit geladen)
+models_cache/
+.cache/
+
+# Eval-Datensatz ist bewusst NICHT ignored:
+# - data/raw/        (HotpotQA-Stichprobe, ca. 1 MB)
+# - data/processed/  (qa_pairs.json, corpus_meta.json)
+# - data/corpus/     (~1500 Paragraph-.txt-Dateien)

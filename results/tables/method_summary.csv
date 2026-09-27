@@ -1,0 +1,5 @@
+method,n_runs,best_composite_mean,best_composite_std,n_evaluations_mean,runtime_s_mean,context_recall,context_precision,answer_f1,exact_match
+default,1,0.601,,1.0,3.657,0.71,0.363,0.695,0.63
+ga,3,0.755,0.012,485.0,3450.072,0.812,0.644,0.792,0.747
+grid,1,0.763,,540.0,2886.318,0.765,0.765,0.757,0.7
+random,3,0.761,0.002,600.0,3355.972,0.763,0.763,0.756,0.7

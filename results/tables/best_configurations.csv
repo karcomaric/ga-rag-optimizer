@@ -1,0 +1,9 @@
+method,seed,chunk_size,chunk_overlap,top_k,embedding_model,retrieval_strategy,best_composite
+default,42,1000,200,4,all-MiniLM-L6-v2,dense,0.601
+ga,42,512,128,5,BAAI/bge-base-en-v1.5,dense,0.741
+ga,43,1024,0,2,BAAI/bge-small-en-v1.5,dense,0.763
+ga,44,1024,0,2,BAAI/bge-small-en-v1.5,dense,0.763
+grid,42,1024,0,2,BAAI/bge-small-en-v1.5,dense,0.763
+random,42,1024,64,2,BAAI/bge-small-en-v1.5,dense,0.759
+random,43,1024,0,2,BAAI/bge-small-en-v1.5,dense,0.763
+random,44,1024,128,2,BAAI/bge-small-en-v1.5,dense,0.762
